@@ -10,6 +10,7 @@
     - pictures.py: Positioniert die Kamera und speichert Bilder <br> Ausführung wird in der Datei gezeigt
     - cococrowd.py: speichert Informationen im Cocoformat, geeignet für eine Pflanzenmenge
     - cocosingle.py: speichert Informationen im Cocoformat, geeignet für Einzelpflanzen
+    - setup_path.py: gegebene Datei von AirSim
 
 - training
     - inference_graph: enthält einen der verwendeten inference Graphen
