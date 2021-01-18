@@ -16,4 +16,3 @@
     - inference_graph: enthält einen der verwendeten inference Graphen
     - tfrecords: enthält die verwendeten tfrecords
     - labelmap.pbtxt: ordnet den Klassen eine ID zu
-    - ssd_mobilenet_v2_coco.config: verwendete Konfigurationsdatei für Trainingsmodell ssd_mobilenet_v2_coco
