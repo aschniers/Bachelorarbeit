@@ -13,6 +13,6 @@
     - setup_path.py: gegebene Datei von AirSim
 
 - training
-    - inference_graph: enthält einen der verwendeten inference Graphen
-    - tfrecords: enthält die verwendeten tfrecords
+    - inference_graph: enthält einen der verwendeten inference Graphen <br> wird zum Testen verwendet
+    - tfrecords: enthält die verwendeten TFrecords <br> fungiert als Input für das Trainingsmodell
     - labelmap.pbtxt: ordnet den Klassen eine ID zu
